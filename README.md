@@ -3,29 +3,16 @@
 ### Hi there 👋
 
 ### Welcome to my Github profile,
-I am an 
-- Entrepreneur 
-- developer 
-- writer 
-- freelancer 
-<br/>
-
-
-
-
+I am an Entrepreneur, developer, technical writer and a freelancer. 
 ## I believe in spreading knowledge and use my technical skills to work for social cause.
 All the work here defines me. 
-<br/>
-
 I am currently
 - MERN stack developer at [GDG-VIT](https://github.com/GDGVIT)
 - Maintainer at [Rekursion](https://github.com/TeamRekursion)
-
-
-###My tech stack 🔭:
-<br/>
 <br/>
 
+### My tech stack 🔭:
+<br/>
 <img src="https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E">
 <img src="https://img.shields.io/badge/react%20-%2320232a.svg?&style=for-the-badge&logo=react&logoColor=%2361DAFB">
 <img src="https://img.shields.io/badge/node.js%20-%2343853D.svg?&style=for-the-badge&logo=node.js&logoColor=white">
@@ -40,7 +27,6 @@ I am currently
 <img alt="jQuery" src="https://img.shields.io/badge/jquery%20-%230769AD.svg?&style=for-the-badge&logo=jquery&logoColor=white">
 <img alt="Adobe XD" src="https://img.shields.io/badge/adobe%20xd%20-%23FF26BE.svg?&style=for-the-badge&logo=adobe%20xd&logoColor=white">
 <img alt="Figma" src="https://img.shields.io/badge/figma%20-%23F24E1E.svg?&style=for-the-badge&logo=figma&logoColor=white">
-
 
 - 🌱 I’m currently learning Flutter
 - 👯 I’m looking to collaborate on open source projects
