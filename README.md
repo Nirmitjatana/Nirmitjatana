@@ -8,3 +8,4 @@
 - 📫 Reach me on [LinkedIn](https://www.linkedin.com/in/nirmit-jatana/), [instagram](https://www.instagram.com/nirmit.j12/)
 - ⚡ Fun fact: I love rocket league
 
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Nirmitjatana&theme=synthwave&hide_border=true)](https://git.io/streak-stats)
