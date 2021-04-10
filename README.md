@@ -11,8 +11,13 @@ I am currently
 - Maintainer at [Rekursion](https://github.com/TeamRekursion)
 <br/>
 
+Check out my latest blog: <a href="https://medium.com/@nirmitjatana38"><img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" /></a>
+<br/>
+Check out my latest Webinar: <a href="https://www.youtube.com/watch?v=E55yicjbGew"><img alt="Youtube" src="https://img.shields.io/badge/youtube%20-%23FF0000.svg?&style=for-the-badge&logo=YouTube&logoColor=white"/></a>
+
 ### My tech stack 🔭:
 <br/>
+
 <img src="https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E">
 <img src="https://img.shields.io/badge/react%20-%2320232a.svg?&style=for-the-badge&logo=react&logoColor=%2361DAFB">
 <img src="https://img.shields.io/badge/node.js%20-%2343853D.svg?&style=for-the-badge&logo=node.js&logoColor=white">
