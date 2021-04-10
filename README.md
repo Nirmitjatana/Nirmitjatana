@@ -10,3 +10,4 @@
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Nirmitjatana&theme=synthwave&hide_border=true)](https://git.io/streak-stats)
 ![Nox's github stats](https://github-readme-stats.vercel.app/api?username=Nirmitjatana&show_icons=true&hide_border=true&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Nirmitjatana&layout=compact&theme=tokyonight)
