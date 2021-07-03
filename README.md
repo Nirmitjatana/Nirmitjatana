@@ -2,7 +2,7 @@
 
 ## Hi there 👋
 
-## Welcome to my SPACE 🚀🌌,
+## Welcome to my SPACE 🚀🌌
 I am an Entrepreneur 👜, developer 💻, technical writer 🖊 and a freelancer 💸.
 ## I believe in spreading knowledge and use my technical skills to work for social cause.
 All the work here defines me. 
