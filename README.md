@@ -34,5 +34,6 @@ Check out my latest Webinar: <a href="https://www.youtube.com/watch?v=E55yicjbGe
 - 📫 Reach me on [LinkedIn](https://www.linkedin.com/in/nirmit-jatana/), [instagram](https://www.instagram.com/nirmit.j12/)
 - ⚡ Fun fact: I love rocket league
 
-
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Nirmitjatana&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
+![Nox's github stats](https://github-readme-stats.vercel.app/api?username=Nirmitjatana&show_icons=true&hide_border=true&theme=merko)
 
