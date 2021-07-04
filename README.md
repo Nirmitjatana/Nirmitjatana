@@ -7,6 +7,7 @@ I am an Entrepreneur 👜, developer 💻, technical writer 🖊 and a freelance
 ## I believe in spreading knowledge and use my technical skills to work for social cause.
 All the work here defines me. 
 I am currently
+- Github Extern at [Pabio](https://github.com/PabioHQ) working on [Upptime](https://github.com/upptime/upptime)
 - MERN stack developer at [GDG-VIT](https://github.com/GDGVIT)
 - Maintainer at [Rekursion](https://github.com/TeamRekursion)
 <br/>
@@ -33,6 +34,5 @@ Check out my latest Webinar: <a href="https://www.youtube.com/watch?v=E55yicjbGe
 - 📫 Reach me on [LinkedIn](https://www.linkedin.com/in/nirmit-jatana/), [instagram](https://www.instagram.com/nirmit.j12/)
 - ⚡ Fun fact: I love rocket league
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Nirmitjatana&theme=synthwave&hide_border=true)](https://git.io/streak-stats)
-![Nox's github stats](https://github-readme-stats.vercel.app/api?username=Nirmitjatana&show_icons=true&hide_border=true&theme=tokyonight)
+
 
