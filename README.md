@@ -1,9 +1,8 @@
 <img src="https://media-exp1.licdn.com/dms/image/C5616AQENGMoN9cWzCA/profile-displaybackgroundimage-shrink_350_1400/0/1608804297191?e=1631145600&v=beta&t=N-kO-1vJFapQeWnWOFLTpFyONveD6RD7Kt_YcrqAUlQ" alt="img"/>
 
-## Hi there 👋
 
 ## Welcome to my SPACE 🚀🌌
-I am an Entrepreneur 👜, developer 💻, technical writer 🖊 and a freelancer 💸.
+I am a developer 💻, technical writer 🖊 and a freelancer 💸.
 ## I believe in spreading knowledge and use my technical skills to work for social cause.
 All the work here defines me. 
 I am currently
@@ -28,7 +27,7 @@ Check out my latest Webinar: <a href="https://www.youtube.com/watch?v=E55yicjbGe
 
 <img alt="Adobe XD" src="https://img.shields.io/badge/adobe%20xd%20-%23FF26BE.svg?&style=for-the-badge&logo=adobe%20xd&logoColor=white"> <img alt="Figma" src="https://img.shields.io/badge/figma%20-%23F24E1E.svg?&style=for-the-badge&logo=figma&logoColor=white">
 
-- 🌱 I’m currently learning Flutter
+- 🌱 I’m currently learning Flutter and Data structures.
 - 👯 I’m looking to collaborate on open source projects
 - 💬 Ask me about TV shows
 - 📫 Reach me on [LinkedIn](https://www.linkedin.com/in/nirmit-jatana/), [instagram](https://www.instagram.com/nirmit.j12/)
