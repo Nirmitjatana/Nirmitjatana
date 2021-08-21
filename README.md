@@ -1,10 +1,10 @@
-<img src="https://media-exp1.licdn.com/dms/image/C5616AQENGMoN9cWzCA/profile-displaybackgroundimage-shrink_350_1400/0/1608804297191?e=1631145600&v=beta&t=N-kO-1vJFapQeWnWOFLTpFyONveD6RD7Kt_YcrqAUlQ" alt="img"/>
+<!-- <img src="https://media-exp1.licdn.com/dms/image/C5616AQENGMoN9cWzCA/profile-displaybackgroundimage-shrink_350_1400/0/1608804297191?e=1631145600&v=beta&t=N-kO-1vJFapQeWnWOFLTpFyONveD6RD7Kt_YcrqAUlQ" alt="img"/>
 
 
 ## Welcome to my SPACE 🚀🌌
 I am a developer 💻, technical writer 🖊 and a freelancer 💸.
 ## I believe in spreading knowledge and use my technical skills to work for social cause.
-All the work here defines me. 
+All the work here defines me.  -->
 I am currently
 - Github Extern at [Pabio](https://github.com/PabioHQ) working on [Upptime](https://github.com/upptime/upptime)
 - MERN stack developer at [GDG-VIT](https://github.com/GDGVIT)
