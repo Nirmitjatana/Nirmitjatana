@@ -6,9 +6,10 @@ I am a developer 💻, technical writer 🖊 and a freelancer 💸.
 ## I believe in spreading knowledge and use my technical skills to work for social cause.
 All the work here defines me.  -->
 I am currently
-- Github Extern at [Pabio](https://github.com/PabioHQ) working on [Upptime](https://github.com/upptime/upptime)
+- Github Extern at [Pabio](https://github.com/PabioHQ) 
+- Maintainer -> [Upptime](https://github.com/upptime/upptime)
 - MERN stack developer at [GDG-VIT](https://github.com/GDGVIT)
-- Maintainer at [Rekursion](https://github.com/TeamRekursion)
+- Maintainer -> [Rekursion](https://github.com/TeamRekursion)
 <br/>
 
 Check out my latest blog: <a href="https://medium.com/@nirmitjatana38"><img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" /></a>
