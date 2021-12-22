@@ -6,9 +6,8 @@ I am a developer 💻, technical writer 🖊 and a freelancer 💸.
 ## I believe in spreading knowledge and use my technical skills to work for social cause.
 All the work here defines me.  -->
 I am currently
-- Github Extern at [Pabio](https://github.com/PabioHQ) 
 - Maintainer -> [Upptime](https://github.com/upptime/upptime)
-- MERN stack developer at [GDG-VIT](https://github.com/GDGVIT)
+- Maintainer -> [GDG-VIT](https://github.com/GDGVIT)
 - Maintainer -> [Rekursion](https://github.com/TeamRekursion)
 <br/>
 
