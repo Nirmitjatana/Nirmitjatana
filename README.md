@@ -27,8 +27,8 @@ Check out my latest Webinar: <a href="https://www.youtube.com/watch?v=E55yicjbGe
 
 <img alt="Adobe XD" src="https://img.shields.io/badge/adobe%20xd%20-%23FF26BE.svg?&style=for-the-badge&logo=adobe%20xd&logoColor=white"> <img alt="Figma" src="https://img.shields.io/badge/figma%20-%23F24E1E.svg?&style=for-the-badge&logo=figma&logoColor=white">
 
-- 🌱 I’m currently learning Flutter and Data structures.
-- 👯 I’m looking to collaborate on open source projects
+- 🌱 I’m currently learning Data structures and devops.
+- 👯 I’m looking to collaborate on open source projects.
 - 💬 Ask me about TV shows
 - 📫 Reach me on [LinkedIn](https://www.linkedin.com/in/nirmit-jatana/), [instagram](https://www.instagram.com/nirmit.j12/)
 - ⚡ Fun fact: I love rocket league
